@@ -1,6 +1,7 @@
 my_list = ['чай','кава','печево']
 
-my_dictionery = {'вовк','собака','кіт'}
+my_dictionery = {'cat': 'Rita',
+                 'dog': 'rex'}
 
 my_set = {'Алекс','Боб','Пітер'}
 
